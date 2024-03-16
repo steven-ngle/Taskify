@@ -26,3 +26,8 @@ Mit diesem Projekt erhoffe ich mir, meine Java-Kenntnisse zu verbessern und im A
 - [ ] **Persistenz**: Implementierung einer Datenbank zur dauerhaften Speicherung der Aufgaben.
 - [ ] **Aufgabenpriorisierung**: Priorisierung von Aufgaben ermöglichen
 
+# Quellen
+- https://www.youtube.com/watch?v=Zo9xQzibp4Y
+- https://www.youtube.com/watch?v=FdXDtLJgS9w&list=PLfRDRWiXJrH38zMp8zgvoGqQtvqLRcDvU
+- https://www.youtube.com/watch?v=1ny8-kzmdJE
+- https://www.youtube.com/watch?v=Xatr8AZLOsE&t=69s
